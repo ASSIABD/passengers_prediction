@@ -2,4 +2,4 @@
 
 Voici l’interface de l’application :
 
-![Interface SmartBus](images/interface.png)
+![Interface SmartBus](interface.png)
