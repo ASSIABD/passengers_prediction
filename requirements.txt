@@ -1,0 +1,21 @@
+# Core libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Time & calendar features
+holidays
+
+# Web application
+streamlit
+
+
+joblib
